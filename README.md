@@ -34,8 +34,7 @@ profitability, customer behavior, product performance, and regional trends.
 
    ## Key Takeaways
 
-- Renewals are strong, but New and Cross Sell need attention.
-- Major gap between achieved vs. invoiced — may need process review.
-- High-value deals are stuck mid-funnel — targeted follow-up needed.
-- Employee productivity varies — use this to optimize sales strategy.
-- Opportunities are concentrated in a few products and names — diversification may reduce risk.
+- Australia stands out across cost, customer volume, and sales, hinting at market leadership.
+- North America is the most active sales territory.
+- A small number of product subcategories contribute the majority of revenue, ideal for targeted marketing.
+- Sales volatility suggests a need for improved demand planning and promotional strategies.
